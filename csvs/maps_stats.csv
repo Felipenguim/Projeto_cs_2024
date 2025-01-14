@@ -1,0 +1,401 @@
+Time,Mapa,URL,Times played,Wins,Losses,Total rounds played,Rounds won,Win percent,Pistol rounds,Pistol rounds won,Pistol round win percent,CT round win percent,T round win percent
+G2,Ancient,https://www.hltv.org/stats/teams/map/47/5995/g2?startDate=2024-01-01&endDate=2024-12-16,30,18,12,631,322,0.6,60,35,0.583,0.46399999999999997,0.561
+G2,Anubis,https://www.hltv.org/stats/teams/map/48/5995/g2?startDate=2024-01-01&endDate=2024-12-16,32,19,13,671,360,0.594,64,34,0.531,0.528,0.545
+G2,Dust2,https://www.hltv.org/stats/teams/map/31/5995/g2?startDate=2024-01-01&endDate=2024-12-16,18,11,7,380,204,0.611,36,20,0.556,0.534,0.54
+G2,Inferno,https://www.hltv.org/stats/teams/map/33/5995/g2?startDate=2024-01-01&endDate=2024-12-16,35,25,10,772,424,0.7140000000000001,70,43,0.614,0.5589999999999999,0.541
+G2,Mirage,https://www.hltv.org/stats/teams/map/32/5995/g2?startDate=2024-01-01&endDate=2024-12-16,24,15,9,498,267,0.625,48,31,0.6459999999999999,0.536,0.536
+G2,Nuke,https://www.hltv.org/stats/teams/map/34/5995/g2?startDate=2024-01-01&endDate=2024-12-16,29,21,8,622,349,0.7240000000000001,58,34,0.586,0.62,0.493
+G2,Overpass,https://www.hltv.org/stats/teams/map/40/5995/g2?startDate=2024-01-01&endDate=2024-12-16,6,3,3,156,78,0.5,12,5,0.41700000000000004,0.532,0.46799999999999997
+G2,Vertigo,https://www.hltv.org/stats/teams/map/46/5995/g2?startDate=2024-01-01&endDate=2024-12-16,9,4,5,216,111,0.444,18,8,0.444,0.45799999999999996,0.5820000000000001
+Spirit,Ancient,https://www.hltv.org/stats/teams/map/47/7020/spirit?startDate=2024-01-01&endDate=2024-12-16,31,21,10,626,360,0.677,62,38,0.613,0.5920000000000001,0.5589999999999999
+Spirit,Anubis,https://www.hltv.org/stats/teams/map/48/7020/spirit?startDate=2024-01-01&endDate=2024-12-16,25,16,9,545,291,0.64,50,26,0.52,0.483,0.595
+Spirit,Dust2,https://www.hltv.org/stats/teams/map/31/7020/spirit?startDate=2024-01-01&endDate=2024-12-16,22,16,6,452,257,0.727,44,24,0.545,0.578,0.557
+Spirit,Inferno,https://www.hltv.org/stats/teams/map/33/7020/spirit?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+Spirit,Mirage,https://www.hltv.org/stats/teams/map/32/7020/spirit?startDate=2024-01-01&endDate=2024-12-16,36,22,14,748,409,0.611,72,41,0.569,0.5870000000000001,0.507
+Spirit,Nuke,https://www.hltv.org/stats/teams/map/34/7020/spirit?startDate=2024-01-01&endDate=2024-12-16,30,22,8,695,377,0.733,60,27,0.45,0.5920000000000001,0.491
+Spirit,Overpass,https://www.hltv.org/stats/teams/map/40/7020/spirit?startDate=2024-01-01&endDate=2024-12-16,3,3,0,47,39,1.0,6,4,0.667,0.833,0.818
+Spirit,Vertigo,https://www.hltv.org/stats/teams/map/46/7020/spirit?startDate=2024-01-01&endDate=2024-12-16,14,9,5,295,163,0.643,28,12,0.429,0.532,0.5770000000000001
+Natus Vincere,Ancient,https://www.hltv.org/stats/teams/map/47/4608/natus-vincere?startDate=2024-01-01&endDate=2024-12-16,33,21,12,700,375,0.636,66,36,0.545,0.547,0.524
+Natus Vincere,Anubis,https://www.hltv.org/stats/teams/map/48/4608/natus-vincere?startDate=2024-01-01&endDate=2024-12-16,21,14,7,484,268,0.667,42,28,0.667,0.45399999999999996,0.643
+Natus Vincere,Dust2,https://www.hltv.org/stats/teams/map/31/4608/natus-vincere?startDate=2024-01-01&endDate=2024-12-16,17,13,4,362,204,0.765,34,20,0.588,0.5710000000000001,0.557
+Natus Vincere,Inferno,https://www.hltv.org/stats/teams/map/33/4608/natus-vincere?startDate=2024-01-01&endDate=2024-12-16,23,13,10,481,255,0.565,46,24,0.522,0.511,0.556
+Natus Vincere,Mirage,https://www.hltv.org/stats/teams/map/32/4608/natus-vincere?startDate=2024-01-01&endDate=2024-12-16,40,27,13,823,446,0.675,80,40,0.5,0.5329999999999999,0.55
+Natus Vincere,Nuke,https://www.hltv.org/stats/teams/map/34/4608/natus-vincere?startDate=2024-01-01&endDate=2024-12-16,31,17,14,672,347,0.5479999999999999,62,32,0.516,0.532,0.5
+Natus Vincere,Overpass,https://www.hltv.org/stats/teams/map/40/4608/natus-vincere?startDate=2024-01-01&endDate=2024-12-16,5,4,1,125,66,0.8,10,5,0.5,0.54,0.516
+Natus Vincere,Vertigo,https://www.hltv.org/stats/teams/map/46/4608/natus-vincere?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+Vitality,Ancient,https://www.hltv.org/stats/teams/map/47/9565/vitality?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+Vitality,Anubis,https://www.hltv.org/stats/teams/map/48/9565/vitality?startDate=2024-01-01&endDate=2024-12-16,24,12,12,533,274,0.5,48,20,0.41700000000000004,0.46299999999999997,0.562
+Vitality,Dust2,https://www.hltv.org/stats/teams/map/31/9565/vitality?startDate=2024-01-01&endDate=2024-12-16,23,16,7,467,272,0.696,46,26,0.565,0.545,0.614
+Vitality,Inferno,https://www.hltv.org/stats/teams/map/33/9565/vitality?startDate=2024-01-01&endDate=2024-12-16,24,14,10,552,296,0.583,48,27,0.562,0.483,0.598
+Vitality,Mirage,https://www.hltv.org/stats/teams/map/32/9565/vitality?startDate=2024-01-01&endDate=2024-12-16,30,21,9,696,396,0.7,60,35,0.583,0.609,0.529
+Vitality,Nuke,https://www.hltv.org/stats/teams/map/34/9565/vitality?startDate=2024-01-01&endDate=2024-12-16,26,20,6,545,321,0.769,52,33,0.635,0.638,0.539
+Vitality,Overpass,https://www.hltv.org/stats/teams/map/40/9565/vitality?startDate=2024-01-01&endDate=2024-12-16,4,2,2,76,38,0.5,8,3,0.375,0.59,0.405
+Vitality,Vertigo,https://www.hltv.org/stats/teams/map/46/9565/vitality?startDate=2024-01-01&endDate=2024-12-16,14,10,4,318,172,0.7140000000000001,28,14,0.5,0.452,0.638
+FaZe,Ancient,https://www.hltv.org/stats/teams/map/47/6667/faze?startDate=2024-01-01&endDate=2024-12-16,34,21,13,769,414,0.618,68,38,0.5589999999999999,0.535,0.541
+FaZe,Anubis,https://www.hltv.org/stats/teams/map/48/6667/faze?startDate=2024-01-01&endDate=2024-12-16,19,8,11,424,207,0.42100000000000004,38,23,0.605,0.43799999999999994,0.534
+FaZe,Dust2,https://www.hltv.org/stats/teams/map/31/6667/faze?startDate=2024-01-01&endDate=2024-12-16,19,9,10,408,207,0.474,38,19,0.5,0.528,0.488
+FaZe,Inferno,https://www.hltv.org/stats/teams/map/33/6667/faze?startDate=2024-01-01&endDate=2024-12-16,29,20,9,619,336,0.69,58,26,0.44799999999999995,0.537,0.5479999999999999
+FaZe,Mirage,https://www.hltv.org/stats/teams/map/32/6667/faze?startDate=2024-01-01&endDate=2024-12-16,33,21,12,729,388,0.636,66,30,0.455,0.5589999999999999,0.503
+FaZe,Nuke,https://www.hltv.org/stats/teams/map/34/6667/faze?startDate=2024-01-01&endDate=2024-12-16,42,24,18,934,481,0.5710000000000001,84,48,0.5710000000000001,0.56,0.47700000000000004
+FaZe,Overpass,https://www.hltv.org/stats/teams/map/40/6667/faze?startDate=2024-01-01&endDate=2024-12-16,8,4,4,177,85,0.5,16,10,0.625,0.612,0.359
+FaZe,Vertigo,https://www.hltv.org/stats/teams/map/46/6667/faze?startDate=2024-01-01&endDate=2024-12-16,5,3,2,114,57,0.6,10,6,0.6,0.452,0.5579999999999999
+MOUZ,Ancient,https://www.hltv.org/stats/teams/map/47/4494/mouz?startDate=2024-01-01&endDate=2024-12-16,21,13,8,474,257,0.619,42,24,0.5710000000000001,0.57,0.516
+MOUZ,Anubis,https://www.hltv.org/stats/teams/map/48/4494/mouz?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+MOUZ,Dust2,https://www.hltv.org/stats/teams/map/31/4494/mouz?startDate=2024-01-01&endDate=2024-12-16,15,9,6,312,160,0.6,30,13,0.433,0.486,0.55
+MOUZ,Inferno,https://www.hltv.org/stats/teams/map/33/4494/mouz?startDate=2024-01-01&endDate=2024-12-16,19,10,9,438,226,0.526,38,22,0.579,0.527,0.505
+MOUZ,Mirage,https://www.hltv.org/stats/teams/map/32/4494/mouz?startDate=2024-01-01&endDate=2024-12-16,33,22,11,680,380,0.667,66,34,0.515,0.596,0.527
+MOUZ,Nuke,https://www.hltv.org/stats/teams/map/34/4494/mouz?startDate=2024-01-01&endDate=2024-12-16,35,23,12,726,401,0.657,70,34,0.486,0.602,0.501
+MOUZ,Overpass,https://www.hltv.org/stats/teams/map/40/4494/mouz?startDate=2024-01-01&endDate=2024-12-16,8,6,2,180,99,0.75,16,7,0.43799999999999994,0.633,0.451
+MOUZ,Vertigo,https://www.hltv.org/stats/teams/map/46/4494/mouz?startDate=2024-01-01&endDate=2024-12-16,23,13,10,554,286,0.565,46,22,0.478,0.512,0.521
+The MongolZ,Ancient,https://www.hltv.org/stats/teams/map/47/6248/the-mongolz?startDate=2024-01-01&endDate=2024-12-16,48,35,13,1092,619,0.7290000000000001,96,55,0.573,0.5760000000000001,0.5589999999999999
+The MongolZ,Anubis,https://www.hltv.org/stats/teams/map/48/6248/the-mongolz?startDate=2024-01-01&endDate=2024-12-16,28,17,11,577,315,0.607,56,32,0.5710000000000001,0.484,0.603
+The MongolZ,Dust2,https://www.hltv.org/stats/teams/map/31/6248/the-mongolz?startDate=2024-01-01&endDate=2024-12-16,10,7,3,203,113,0.7,20,13,0.65,0.521,0.61
+The MongolZ,Inferno,https://www.hltv.org/stats/teams/map/33/6248/the-mongolz?startDate=2024-01-01&endDate=2024-12-16,24,18,6,597,335,0.75,48,31,0.6459999999999999,0.524,0.596
+The MongolZ,Mirage,https://www.hltv.org/stats/teams/map/32/6248/the-mongolz?startDate=2024-01-01&endDate=2024-12-16,47,29,18,1026,558,0.617,94,56,0.596,0.536,0.55
+The MongolZ,Nuke,https://www.hltv.org/stats/teams/map/34/6248/the-mongolz?startDate=2024-01-01&endDate=2024-12-16,31,16,15,642,339,0.516,62,37,0.597,0.583,0.462
+The MongolZ,Overpass,https://www.hltv.org/stats/teams/map/40/6248/the-mongolz?startDate=2024-01-01&endDate=2024-12-16,4,4,0,90,52,1.0,8,4,0.5,0.604,0.5479999999999999
+The MongolZ,Vertigo,https://www.hltv.org/stats/teams/map/46/6248/the-mongolz?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+HEROIC,Ancient,https://www.hltv.org/stats/teams/map/47/7175/heroic?startDate=2024-01-01&endDate=2024-12-16,43,26,17,929,487,0.605,86,50,0.581,0.496,0.5529999999999999
+HEROIC,Anubis,https://www.hltv.org/stats/teams/map/48/7175/heroic?startDate=2024-01-01&endDate=2024-12-16,32,16,16,698,360,0.5,64,32,0.5,0.44299999999999995,0.5760000000000001
+HEROIC,Dust2,https://www.hltv.org/stats/teams/map/31/7175/heroic?startDate=2024-01-01&endDate=2024-12-16,21,11,10,454,235,0.524,42,19,0.452,0.494,0.5429999999999999
+HEROIC,Inferno,https://www.hltv.org/stats/teams/map/33/7175/heroic?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+HEROIC,Mirage,https://www.hltv.org/stats/teams/map/32/7175/heroic?startDate=2024-01-01&endDate=2024-12-16,39,26,13,851,452,0.667,78,39,0.5,0.598,0.47
+HEROIC,Nuke,https://www.hltv.org/stats/teams/map/34/7175/heroic?startDate=2024-01-01&endDate=2024-12-16,41,21,20,868,455,0.512,82,48,0.585,0.57,0.48100000000000004
+HEROIC,Overpass,https://www.hltv.org/stats/teams/map/40/7175/heroic?startDate=2024-01-01&endDate=2024-12-16,9,5,4,196,102,0.556,18,4,0.222,0.5529999999999999,0.484
+HEROIC,Vertigo,https://www.hltv.org/stats/teams/map/46/7175/heroic?startDate=2024-01-01&endDate=2024-12-16,24,13,11,586,296,0.542,48,22,0.45799999999999996,0.466,0.5489999999999999
+Liquid,Ancient,https://www.hltv.org/stats/teams/map/47/5973/liquid?startDate=2024-01-01&endDate=2024-12-16,32,27,5,697,408,0.8440000000000001,64,35,0.547,0.619,0.551
+Liquid,Anubis,https://www.hltv.org/stats/teams/map/48/5973/liquid?startDate=2024-01-01&endDate=2024-12-16,38,27,11,805,458,0.711,76,40,0.526,0.508,0.635
+Liquid,Dust2,https://www.hltv.org/stats/teams/map/31/5973/liquid?startDate=2024-01-01&endDate=2024-12-16,15,7,8,312,149,0.467,30,13,0.433,0.47700000000000004,0.478
+Liquid,Inferno,https://www.hltv.org/stats/teams/map/33/5973/liquid?startDate=2024-01-01&endDate=2024-12-16,39,25,14,859,452,0.6409999999999999,78,38,0.48700000000000004,0.527,0.525
+Liquid,Mirage,https://www.hltv.org/stats/teams/map/32/5973/liquid?startDate=2024-01-01&endDate=2024-12-16,26,13,13,523,254,0.5,52,24,0.462,0.526,0.442
+Liquid,Nuke,https://www.hltv.org/stats/teams/map/34/5973/liquid?startDate=2024-01-01&endDate=2024-12-16,33,14,19,733,370,0.424,66,34,0.515,0.5870000000000001,0.413
+Liquid,Overpass,https://www.hltv.org/stats/teams/map/40/5973/liquid?startDate=2024-01-01&endDate=2024-12-16,8,4,4,149,79,0.5,16,5,0.312,0.6509999999999999,0.379
+Liquid,Vertigo,https://www.hltv.org/stats/teams/map/46/5973/liquid?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+FURIA,Ancient,https://www.hltv.org/stats/teams/map/47/8297/furia?startDate=2024-01-01&endDate=2024-12-16,15,7,8,319,158,0.467,30,19,0.633,0.442,0.545
+FURIA,Anubis,https://www.hltv.org/stats/teams/map/48/8297/furia?startDate=2024-01-01&endDate=2024-12-16,11,5,6,219,99,0.455,22,9,0.409,0.38,0.513
+FURIA,Dust2,https://www.hltv.org/stats/teams/map/31/8297/furia?startDate=2024-01-01&endDate=2024-12-16,20,13,7,449,238,0.65,40,20,0.5,0.532,0.528
+FURIA,Inferno,https://www.hltv.org/stats/teams/map/33/8297/furia?startDate=2024-01-01&endDate=2024-12-16,24,15,9,530,281,0.625,48,25,0.521,0.47600000000000003,0.5770000000000001
+FURIA,Mirage,https://www.hltv.org/stats/teams/map/32/8297/furia?startDate=2024-01-01&endDate=2024-12-16,31,13,18,654,303,0.419,62,25,0.40299999999999997,0.488,0.43700000000000006
+FURIA,Nuke,https://www.hltv.org/stats/teams/map/34/8297/furia?startDate=2024-01-01&endDate=2024-12-16,36,22,14,763,403,0.611,72,40,0.556,0.531,0.526
+FURIA,Overpass,https://www.hltv.org/stats/teams/map/40/8297/furia?startDate=2024-01-01&endDate=2024-12-16,7,3,4,148,66,0.429,14,6,0.429,0.552,0.358
+FURIA,Vertigo,https://www.hltv.org/stats/teams/map/46/8297/furia?startDate=2024-01-01&endDate=2024-12-16,20,10,10,433,221,0.5,40,17,0.425,0.509,0.512
+Astralis,Ancient,https://www.hltv.org/stats/teams/map/47/6665/astralis?startDate=2024-01-01&endDate=2024-12-16,28,17,11,595,323,0.607,56,27,0.48200000000000004,0.574,0.516
+Astralis,Anubis,https://www.hltv.org/stats/teams/map/48/6665/astralis?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+Astralis,Dust2,https://www.hltv.org/stats/teams/map/31/6665/astralis?startDate=2024-01-01&endDate=2024-12-16,14,5,9,283,126,0.35700000000000004,28,11,0.39299999999999996,0.45,0.439
+Astralis,Inferno,https://www.hltv.org/stats/teams/map/33/6665/astralis?startDate=2024-01-01&endDate=2024-12-16,21,13,8,453,243,0.619,42,18,0.429,0.525,0.546
+Astralis,Mirage,https://www.hltv.org/stats/teams/map/32/6665/astralis?startDate=2024-01-01&endDate=2024-12-16,23,11,12,523,270,0.478,46,20,0.435,0.534,0.496
+Astralis,Nuke,https://www.hltv.org/stats/teams/map/34/6665/astralis?startDate=2024-01-01&endDate=2024-12-16,24,13,11,507,266,0.542,48,26,0.542,0.61,0.429
+Astralis,Overpass,https://www.hltv.org/stats/teams/map/40/6665/astralis?startDate=2024-01-01&endDate=2024-12-16,8,7,1,179,108,0.875,16,12,0.75,0.6920000000000001,0.511
+Astralis,Vertigo,https://www.hltv.org/stats/teams/map/46/6665/astralis?startDate=2024-01-01&endDate=2024-12-16,19,8,11,426,212,0.42100000000000004,38,23,0.605,0.47200000000000003,0.523
+Eternal Fire,Ancient,https://www.hltv.org/stats/teams/map/47/11251/eternal-fire?startDate=2024-01-01&endDate=2024-12-16,2,0,2,45,19,0.0,4,2,0.5,0.381,0.45799999999999996
+Eternal Fire,Anubis,https://www.hltv.org/stats/teams/map/48/11251/eternal-fire?startDate=2024-01-01&endDate=2024-12-16,25,18,7,580,325,0.72,50,26,0.52,0.5379999999999999,0.5820000000000001
+Eternal Fire,Dust2,https://www.hltv.org/stats/teams/map/31/11251/eternal-fire?startDate=2024-01-01&endDate=2024-12-16,17,10,7,401,214,0.588,34,21,0.618,0.556,0.514
+Eternal Fire,Inferno,https://www.hltv.org/stats/teams/map/33/11251/eternal-fire?startDate=2024-01-01&endDate=2024-12-16,27,16,11,594,317,0.593,54,26,0.48100000000000004,0.542,0.526
+Eternal Fire,Mirage,https://www.hltv.org/stats/teams/map/32/11251/eternal-fire?startDate=2024-01-01&endDate=2024-12-16,23,10,13,493,243,0.435,46,22,0.478,0.518,0.46
+Eternal Fire,Nuke,https://www.hltv.org/stats/teams/map/34/11251/eternal-fire?startDate=2024-01-01&endDate=2024-12-16,28,16,12,609,315,0.5710000000000001,56,26,0.46399999999999997,0.5579999999999999,0.467
+Eternal Fire,Overpass,https://www.hltv.org/stats/teams/map/40/11251/eternal-fire?startDate=2024-01-01&endDate=2024-12-16,9,4,5,195,92,0.444,18,11,0.611,0.514,0.42
+Eternal Fire,Vertigo,https://www.hltv.org/stats/teams/map/46/11251/eternal-fire?startDate=2024-01-01&endDate=2024-12-16,22,15,7,463,263,0.682,44,25,0.568,0.564,0.5720000000000001
+MIBR,Ancient,https://www.hltv.org/stats/teams/map/47/9215/mibr?startDate=2024-01-01&endDate=2024-12-16,45,32,13,928,520,0.711,90,44,0.489,0.521,0.595
+MIBR,Anubis,https://www.hltv.org/stats/teams/map/48/9215/mibr?startDate=2024-01-01&endDate=2024-12-16,53,32,21,1148,618,0.604,106,60,0.5660000000000001,0.467,0.606
+MIBR,Dust2,https://www.hltv.org/stats/teams/map/31/9215/mibr?startDate=2024-01-01&endDate=2024-12-16,2,1,1,49,23,0.5,4,2,0.5,0.364,0.556
+MIBR,Inferno,https://www.hltv.org/stats/teams/map/33/9215/mibr?startDate=2024-01-01&endDate=2024-12-16,22,15,7,457,252,0.682,44,22,0.5,0.512,0.596
+MIBR,Mirage,https://www.hltv.org/stats/teams/map/32/9215/mibr?startDate=2024-01-01&endDate=2024-12-16,35,12,23,722,320,0.34299999999999997,70,34,0.486,0.439,0.44799999999999995
+MIBR,Nuke,https://www.hltv.org/stats/teams/map/34/9215/mibr?startDate=2024-01-01&endDate=2024-12-16,51,32,19,1056,560,0.627,102,56,0.5489999999999999,0.5329999999999999,0.527
+MIBR,Overpass,https://www.hltv.org/stats/teams/map/40/9215/mibr?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+MIBR,Vertigo,https://www.hltv.org/stats/teams/map/46/9215/mibr?startDate=2024-01-01&endDate=2024-12-16,48,32,16,1011,566,0.667,96,62,0.6459999999999999,0.581,0.542
+paiN,Ancient,https://www.hltv.org/stats/teams/map/47/4773/pain?startDate=2024-01-01&endDate=2024-12-16,2,2,0,39,26,1.0,4,3,0.75,0.5710000000000001,0.778
+paiN,Anubis,https://www.hltv.org/stats/teams/map/48/4773/pain?startDate=2024-01-01&endDate=2024-12-16,62,42,20,1285,702,0.677,124,69,0.556,0.47600000000000003,0.618
+paiN,Dust2,https://www.hltv.org/stats/teams/map/31/4773/pain?startDate=2024-01-01&endDate=2024-12-16,25,16,9,527,296,0.64,50,30,0.6,0.562,0.561
+paiN,Inferno,https://www.hltv.org/stats/teams/map/33/4773/pain?startDate=2024-01-01&endDate=2024-12-16,42,28,14,962,525,0.667,84,52,0.619,0.575,0.51
+paiN,Mirage,https://www.hltv.org/stats/teams/map/32/4773/pain?startDate=2024-01-01&endDate=2024-12-16,48,29,19,1024,545,0.604,96,45,0.469,0.542,0.521
+paiN,Nuke,https://www.hltv.org/stats/teams/map/34/4773/pain?startDate=2024-01-01&endDate=2024-12-16,79,54,25,1649,917,0.684,158,80,0.506,0.624,0.49200000000000005
+paiN,Overpass,https://www.hltv.org/stats/teams/map/40/4773/pain?startDate=2024-01-01&endDate=2024-12-16,4,2,2,82,44,0.5,8,3,0.375,0.617,0.429
+paiN,Vertigo,https://www.hltv.org/stats/teams/map/46/4773/pain?startDate=2024-01-01&endDate=2024-12-16,57,40,17,1244,697,0.7020000000000001,114,72,0.632,0.555,0.5660000000000001
+Virtus.pro,Ancient,https://www.hltv.org/stats/teams/map/47/5378/virtus.pro?startDate=2024-01-01&endDate=2024-12-16,37,19,18,834,417,0.514,74,36,0.486,0.525,0.47200000000000003
+Virtus.pro,Anubis,https://www.hltv.org/stats/teams/map/48/5378/virtus.pro?startDate=2024-01-01&endDate=2024-12-16,20,11,9,417,211,0.55,40,17,0.425,0.429,0.575
+Virtus.pro,Dust2,https://www.hltv.org/stats/teams/map/31/5378/virtus.pro?startDate=2024-01-01&endDate=2024-12-16,23,10,13,502,246,0.435,46,20,0.435,0.498,0.484
+Virtus.pro,Inferno,https://www.hltv.org/stats/teams/map/33/5378/virtus.pro?startDate=2024-01-01&endDate=2024-12-16,20,10,10,415,206,0.5,40,21,0.525,0.484,0.51
+Virtus.pro,Mirage,https://www.hltv.org/stats/teams/map/32/5378/virtus.pro?startDate=2024-01-01&endDate=2024-12-16,25,17,8,545,293,0.68,50,28,0.56,0.5870000000000001,0.49700000000000005
+Virtus.pro,Nuke,https://www.hltv.org/stats/teams/map/34/5378/virtus.pro?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+Virtus.pro,Overpass,https://www.hltv.org/stats/teams/map/40/5378/virtus.pro?startDate=2024-01-01&endDate=2024-12-16,17,11,6,375,203,0.647,34,19,0.5589999999999999,0.5489999999999999,0.535
+Virtus.pro,Vertigo,https://www.hltv.org/stats/teams/map/46/5378/virtus.pro?startDate=2024-01-01&endDate=2024-12-16,23,9,14,513,244,0.391,46,22,0.478,0.469,0.483
+3DMAX,Ancient,https://www.hltv.org/stats/teams/map/47/4914/3dmax?startDate=2024-01-01&endDate=2024-12-16,66,30,36,1413,673,0.455,132,62,0.47,0.45,0.506
+3DMAX,Anubis,https://www.hltv.org/stats/teams/map/48/4914/3dmax?startDate=2024-01-01&endDate=2024-12-16,73,45,28,1540,815,0.616,146,75,0.514,0.473,0.5920000000000001
+3DMAX,Dust2,https://www.hltv.org/stats/teams/map/31/4914/3dmax?startDate=2024-01-01&endDate=2024-12-16,32,20,12,747,388,0.625,64,31,0.484,0.54,0.49700000000000005
+3DMAX,Inferno,https://www.hltv.org/stats/teams/map/33/4914/3dmax?startDate=2024-01-01&endDate=2024-12-16,45,31,14,1004,545,0.6890000000000001,90,52,0.578,0.54,0.546
+3DMAX,Mirage,https://www.hltv.org/stats/teams/map/32/4914/3dmax?startDate=2024-01-01&endDate=2024-12-16,2,0,2,32,6,0.0,4,0,0.0,0.20800000000000002,0.125
+3DMAX,Nuke,https://www.hltv.org/stats/teams/map/34/4914/3dmax?startDate=2024-01-01&endDate=2024-12-16,61,35,26,1346,705,0.574,122,64,0.525,0.583,0.46399999999999997
+3DMAX,Overpass,https://www.hltv.org/stats/teams/map/40/4914/3dmax?startDate=2024-01-01&endDate=2024-12-16,13,7,6,299,143,0.5379999999999999,26,15,0.5770000000000001,0.51,0.445
+3DMAX,Vertigo,https://www.hltv.org/stats/teams/map/46/4914/3dmax?startDate=2024-01-01&endDate=2024-12-16,27,17,10,613,318,0.63,54,29,0.537,0.488,0.5479999999999999
+Complexity,Ancient,https://www.hltv.org/stats/teams/map/47/5005/complexity?startDate=2024-01-01&endDate=2024-12-16,25,12,13,535,262,0.48,50,27,0.54,0.457,0.525
+Complexity,Anubis,https://www.hltv.org/stats/teams/map/48/5005/complexity?startDate=2024-01-01&endDate=2024-12-16,32,18,14,675,355,0.562,64,34,0.531,0.488,0.5720000000000001
+Complexity,Dust2,https://www.hltv.org/stats/teams/map/31/5005/complexity?startDate=2024-01-01&endDate=2024-12-16,11,5,6,261,124,0.455,22,8,0.364,0.515,0.43200000000000005
+Complexity,Inferno,https://www.hltv.org/stats/teams/map/33/5005/complexity?startDate=2024-01-01&endDate=2024-12-16,14,7,7,311,158,0.5,28,18,0.643,0.486,0.536
+Complexity,Mirage,https://www.hltv.org/stats/teams/map/32/5005/complexity?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+Complexity,Nuke,https://www.hltv.org/stats/teams/map/34/5005/complexity?startDate=2024-01-01&endDate=2024-12-16,17,5,12,353,154,0.294,34,16,0.47100000000000003,0.49200000000000005,0.37
+Complexity,Overpass,https://www.hltv.org/stats/teams/map/40/5005/complexity?startDate=2024-01-01&endDate=2024-12-16,8,2,6,166,67,0.25,16,9,0.562,0.43700000000000006,0.379
+Complexity,Vertigo,https://www.hltv.org/stats/teams/map/46/5005/complexity?startDate=2024-01-01&endDate=2024-12-16,30,22,8,734,398,0.733,60,30,0.5,0.593,0.495
+GamerLegion,Ancient,https://www.hltv.org/stats/teams/map/47/9928/gamerlegion?startDate=2024-01-01&endDate=2024-12-16,34,21,13,755,380,0.618,68,25,0.368,0.491,0.517
+GamerLegion,Anubis,https://www.hltv.org/stats/teams/map/48/9928/gamerlegion?startDate=2024-01-01&endDate=2024-12-16,31,15,16,706,350,0.484,62,34,0.5479999999999999,0.49700000000000005,0.494
+GamerLegion,Dust2,https://www.hltv.org/stats/teams/map/31/9928/gamerlegion?startDate=2024-01-01&endDate=2024-12-16,13,5,8,275,126,0.385,26,7,0.26899999999999996,0.5539999999999999,0.36
+GamerLegion,Inferno,https://www.hltv.org/stats/teams/map/33/9928/gamerlegion?startDate=2024-01-01&endDate=2024-12-16,17,7,10,347,157,0.41200000000000003,34,16,0.47100000000000003,0.4,0.509
+GamerLegion,Mirage,https://www.hltv.org/stats/teams/map/32/9928/gamerlegion?startDate=2024-01-01&endDate=2024-12-16,41,20,21,933,452,0.488,82,38,0.46299999999999997,0.49,0.479
+GamerLegion,Nuke,https://www.hltv.org/stats/teams/map/34/9928/gamerlegion?startDate=2024-01-01&endDate=2024-12-16,31,15,16,661,322,0.484,62,24,0.387,0.547,0.419
+GamerLegion,Overpass,https://www.hltv.org/stats/teams/map/40/9928/gamerlegion?startDate=2024-01-01&endDate=2024-12-16,19,15,4,436,243,0.789,38,27,0.711,0.626,0.498
+GamerLegion,Vertigo,https://www.hltv.org/stats/teams/map/46/9928/gamerlegion?startDate=2024-01-01&endDate=2024-12-16,26,13,13,599,307,0.5,52,27,0.519,0.505,0.52
+BIG,Ancient,https://www.hltv.org/stats/teams/map/47/7532/big?startDate=2024-01-01&endDate=2024-12-16,48,27,21,1075,565,0.562,96,49,0.51,0.556,0.499
+BIG,Anubis,https://www.hltv.org/stats/teams/map/48/7532/big?startDate=2024-01-01&endDate=2024-12-16,27,11,16,577,273,0.40700000000000003,54,23,0.426,0.475,0.47100000000000003
+BIG,Dust2,https://www.hltv.org/stats/teams/map/31/7532/big?startDate=2024-01-01&endDate=2024-12-16,22,12,10,471,242,0.545,44,20,0.455,0.541,0.48700000000000004
+BIG,Inferno,https://www.hltv.org/stats/teams/map/33/7532/big?startDate=2024-01-01&endDate=2024-12-16,10,3,7,225,106,0.3,20,9,0.45,0.467,0.47600000000000003
+BIG,Mirage,https://www.hltv.org/stats/teams/map/32/7532/big?startDate=2024-01-01&endDate=2024-12-16,19,7,12,397,179,0.368,38,20,0.526,0.483,0.415
+BIG,Nuke,https://www.hltv.org/stats/teams/map/34/7532/big?startDate=2024-01-01&endDate=2024-12-16,18,8,10,363,173,0.444,36,17,0.47200000000000003,0.505,0.442
+BIG,Overpass,https://www.hltv.org/stats/teams/map/40/7532/big?startDate=2024-01-01&endDate=2024-12-16,10,3,7,219,100,0.3,20,10,0.5,0.508,0.392
+BIG,Vertigo,https://www.hltv.org/stats/teams/map/46/7532/big?startDate=2024-01-01&endDate=2024-12-16,26,13,13,602,296,0.5,52,19,0.365,0.474,0.508
+SAW,Ancient,https://www.hltv.org/stats/teams/map/47/10567/saw?startDate=2024-01-01&endDate=2024-12-16,37,20,17,791,399,0.541,74,35,0.473,0.507,0.501
+SAW,Anubis,https://www.hltv.org/stats/teams/map/48/10567/saw?startDate=2024-01-01&endDate=2024-12-16,30,16,14,649,329,0.5329999999999999,60,28,0.467,0.42,0.59
+SAW,Dust2,https://www.hltv.org/stats/teams/map/31/10567/saw?startDate=2024-01-01&endDate=2024-12-16,16,9,7,339,174,0.562,32,18,0.562,0.456,0.58
+SAW,Inferno,https://www.hltv.org/stats/teams/map/33/10567/saw?startDate=2024-01-01&endDate=2024-12-16,25,14,11,552,284,0.56,50,24,0.48,0.45799999999999996,0.575
+SAW,Mirage,https://www.hltv.org/stats/teams/map/32/10567/saw?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+SAW,Nuke,https://www.hltv.org/stats/teams/map/34/10567/saw?startDate=2024-01-01&endDate=2024-12-16,54,39,15,1193,674,0.722,108,56,0.519,0.6,0.535
+SAW,Overpass,https://www.hltv.org/stats/teams/map/40/10567/saw?startDate=2024-01-01&endDate=2024-12-16,10,7,3,213,117,0.7,20,11,0.55,0.628,0.446
+SAW,Vertigo,https://www.hltv.org/stats/teams/map/46/10567/saw?startDate=2024-01-01&endDate=2024-12-16,29,14,15,608,314,0.483,58,32,0.552,0.515,0.518
+Wildcard,Ancient,https://www.hltv.org/stats/teams/map/47/12257/wildcard?startDate=2024-01-01&endDate=2024-12-16,56,33,23,1209,636,0.589,112,55,0.491,0.535,0.517
+Wildcard,Anubis,https://www.hltv.org/stats/teams/map/48/12257/wildcard?startDate=2024-01-01&endDate=2024-12-16,29,21,8,601,341,0.7240000000000001,58,36,0.621,0.595,0.535
+Wildcard,Dust2,https://www.hltv.org/stats/teams/map/31/12257/wildcard?startDate=2024-01-01&endDate=2024-12-16,23,15,8,498,275,0.652,46,25,0.5429999999999999,0.552,0.552
+Wildcard,Inferno,https://www.hltv.org/stats/teams/map/33/12257/wildcard?startDate=2024-01-01&endDate=2024-12-16,35,19,16,723,366,0.5429999999999999,70,39,0.557,0.45399999999999996,0.557
+Wildcard,Mirage,https://www.hltv.org/stats/teams/map/32/12257/wildcard?startDate=2024-01-01&endDate=2024-12-16,13,7,6,261,126,0.5379999999999999,26,15,0.5770000000000001,0.512,0.457
+Wildcard,Nuke,https://www.hltv.org/stats/teams/map/34/12257/wildcard?startDate=2024-01-01&endDate=2024-12-16,22,13,9,488,258,0.591,44,19,0.43200000000000005,0.618,0.435
+Wildcard,Overpass,https://www.hltv.org/stats/teams/map/40/12257/wildcard?startDate=2024-01-01&endDate=2024-12-16,11,7,4,223,115,0.636,22,13,0.591,0.584,0.445
+Wildcard,Vertigo,https://www.hltv.org/stats/teams/map/46/12257/wildcard?startDate=2024-01-01&endDate=2024-12-16,30,21,9,660,372,0.7,60,34,0.5670000000000001,0.5329999999999999,0.593
+FlyQuest,Ancient,https://www.hltv.org/stats/teams/map/47/12774/flyquest?startDate=2024-01-01&endDate=2024-12-16,25,16,9,521,279,0.64,50,24,0.48,0.525,0.545
+FlyQuest,Anubis,https://www.hltv.org/stats/teams/map/48/12774/flyquest?startDate=2024-01-01&endDate=2024-12-16,22,16,6,487,274,0.727,44,27,0.614,0.5,0.626
+FlyQuest,Dust2,https://www.hltv.org/stats/teams/map/31/12774/flyquest?startDate=2024-01-01&endDate=2024-12-16,7,4,3,127,70,0.5710000000000001,14,5,0.35700000000000004,0.573,0.519
+FlyQuest,Inferno,https://www.hltv.org/stats/teams/map/33/12774/flyquest?startDate=2024-01-01&endDate=2024-12-16,19,12,7,405,224,0.632,38,17,0.447,0.552,0.5539999999999999
+FlyQuest,Mirage,https://www.hltv.org/stats/teams/map/32/12774/flyquest?startDate=2024-01-01&endDate=2024-12-16,9,4,5,183,96,0.444,18,12,0.667,0.547,0.5
+FlyQuest,Nuke,https://www.hltv.org/stats/teams/map/34/12774/flyquest?startDate=2024-01-01&endDate=2024-12-16,17,10,7,344,187,0.588,34,13,0.382,0.581,0.5
+FlyQuest,Overpass,https://www.hltv.org/stats/teams/map/40/12774/flyquest?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+FlyQuest,Vertigo,https://www.hltv.org/stats/teams/map/46/12774/flyquest?startDate=2024-01-01&endDate=2024-12-16,12,7,5,275,153,0.583,24,11,0.45799999999999996,0.5770000000000001,0.536
+M80,Ancient,https://www.hltv.org/stats/teams/map/47/12376/m80?startDate=2024-01-01&endDate=2024-12-16,57,40,17,1165,668,0.7020000000000001,114,58,0.509,0.569,0.5770000000000001
+M80,Anubis,https://www.hltv.org/stats/teams/map/48/12376/m80?startDate=2024-01-01&endDate=2024-12-16,36,22,14,803,432,0.611,72,37,0.514,0.462,0.602
+M80,Dust2,https://www.hltv.org/stats/teams/map/31/12376/m80?startDate=2024-01-01&endDate=2024-12-16,13,8,5,282,151,0.615,26,9,0.34600000000000003,0.589,0.478
+M80,Inferno,https://www.hltv.org/stats/teams/map/33/12376/m80?startDate=2024-01-01&endDate=2024-12-16,23,12,11,521,270,0.522,46,23,0.5,0.502,0.536
+M80,Mirage,https://www.hltv.org/stats/teams/map/32/12376/m80?startDate=2024-01-01&endDate=2024-12-16,26,14,12,516,282,0.5379999999999999,52,25,0.48100000000000004,0.602,0.47600000000000003
+M80,Nuke,https://www.hltv.org/stats/teams/map/34/12376/m80?startDate=2024-01-01&endDate=2024-12-16,4,1,3,77,34,0.25,8,3,0.375,0.5529999999999999,0.33299999999999996
+M80,Overpass,https://www.hltv.org/stats/teams/map/40/12376/m80?startDate=2024-01-01&endDate=2024-12-16,7,6,1,124,84,0.857,14,10,0.7140000000000001,0.7759999999999999,0.561
+M80,Vertigo,https://www.hltv.org/stats/teams/map/46/12376/m80?startDate=2024-01-01&endDate=2024-12-16,25,16,9,537,293,0.64,50,30,0.6,0.511,0.58
+Imperial,Ancient,https://www.hltv.org/stats/teams/map/47/9455/imperial?startDate=2024-01-01&endDate=2024-12-16,4,1,3,79,31,0.25,8,3,0.375,0.35700000000000004,0.43200000000000005
+Imperial,Anubis,https://www.hltv.org/stats/teams/map/48/9455/imperial?startDate=2024-01-01&endDate=2024-12-16,45,26,19,943,503,0.578,90,43,0.478,0.483,0.583
+Imperial,Dust2,https://www.hltv.org/stats/teams/map/31/9455/imperial?startDate=2024-01-01&endDate=2024-12-16,28,19,9,592,329,0.679,56,33,0.589,0.625,0.49
+Imperial,Inferno,https://www.hltv.org/stats/teams/map/33/9455/imperial?startDate=2024-01-01&endDate=2024-12-16,48,26,22,1035,551,0.542,96,52,0.542,0.5529999999999999,0.513
+Imperial,Mirage,https://www.hltv.org/stats/teams/map/32/9455/imperial?startDate=2024-01-01&endDate=2024-12-16,54,38,16,1193,646,0.7040000000000001,108,55,0.509,0.583,0.503
+Imperial,Nuke,https://www.hltv.org/stats/teams/map/34/9455/imperial?startDate=2024-01-01&endDate=2024-12-16,60,34,26,1269,675,0.5670000000000001,120,70,0.583,0.547,0.515
+Imperial,Overpass,https://www.hltv.org/stats/teams/map/40/9455/imperial?startDate=2024-01-01&endDate=2024-12-16,11,8,3,228,128,0.727,22,13,0.591,0.7120000000000001,0.4
+Imperial,Vertigo,https://www.hltv.org/stats/teams/map/46/9455/imperial?startDate=2024-01-01&endDate=2024-12-16,27,13,14,595,295,0.48100000000000004,54,27,0.5,0.522,0.465
+Passion UA,Ancient,https://www.hltv.org/stats/teams/map/47/12426/passion-ua?startDate=2024-01-01&endDate=2024-12-16,80,47,33,1742,903,0.588,160,81,0.506,0.505,0.531
+Passion UA,Anubis,https://www.hltv.org/stats/teams/map/48/12426/passion-ua?startDate=2024-01-01&endDate=2024-12-16,75,46,29,1674,889,0.613,150,76,0.507,0.47600000000000003,0.589
+Passion UA,Dust2,https://www.hltv.org/stats/teams/map/31/12426/passion-ua?startDate=2024-01-01&endDate=2024-12-16,30,13,17,649,329,0.433,60,30,0.5,0.532,0.47600000000000003
+Passion UA,Inferno,https://www.hltv.org/stats/teams/map/33/12426/passion-ua?startDate=2024-01-01&endDate=2024-12-16,47,22,25,952,450,0.46799999999999997,94,39,0.415,0.413,0.537
+Passion UA,Mirage,https://www.hltv.org/stats/teams/map/32/12426/passion-ua?startDate=2024-01-01&endDate=2024-12-16,84,43,41,1912,976,0.512,168,76,0.452,0.534,0.48700000000000004
+Passion UA,Nuke,https://www.hltv.org/stats/teams/map/34/12426/passion-ua?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+Passion UA,Overpass,https://www.hltv.org/stats/teams/map/40/12426/passion-ua?startDate=2024-01-01&endDate=2024-12-16,12,6,6,280,134,0.5,24,18,0.75,0.547,0.413
+Passion UA,Vertigo,https://www.hltv.org/stats/teams/map/46/12426/passion-ua?startDate=2024-01-01&endDate=2024-12-16,55,36,19,1177,646,0.655,110,68,0.618,0.519,0.575
+B8,Ancient,https://www.hltv.org/stats/teams/map/47/11241/b8?startDate=2024-01-01&endDate=2024-12-16,68,39,29,1445,746,0.574,136,69,0.507,0.555,0.48
+B8,Anubis,https://www.hltv.org/stats/teams/map/48/11241/b8?startDate=2024-01-01&endDate=2024-12-16,56,33,23,1241,639,0.589,112,57,0.509,0.439,0.603
+B8,Dust2,https://www.hltv.org/stats/teams/map/31/11241/b8?startDate=2024-01-01&endDate=2024-12-16,18,9,9,399,199,0.5,36,21,0.583,0.45799999999999996,0.536
+B8,Inferno,https://www.hltv.org/stats/teams/map/33/11241/b8?startDate=2024-01-01&endDate=2024-12-16,30,18,12,656,353,0.6,60,33,0.55,0.53,0.5479999999999999
+B8,Mirage,https://www.hltv.org/stats/teams/map/32/11241/b8?startDate=2024-01-01&endDate=2024-12-16,87,52,35,1963,1053,0.598,174,91,0.523,0.569,0.505
+B8,Nuke,https://www.hltv.org/stats/teams/map/34/11241/b8?startDate=2024-01-01&endDate=2024-12-16,53,30,23,1169,598,0.5660000000000001,106,51,0.48100000000000004,0.556,0.466
+B8,Overpass,https://www.hltv.org/stats/teams/map/40/11241/b8?startDate=2024-01-01&endDate=2024-12-16,2,1,1,38,22,0.5,4,1,0.25,0.625,0.5
+B8,Vertigo,https://www.hltv.org/stats/teams/map/46/11241/b8?startDate=2024-01-01&endDate=2024-12-16,5,5,0,116,68,1.0,10,6,0.6,0.44299999999999995,0.745
+Cloud9,Ancient,https://www.hltv.org/stats/teams/map/47/5752/cloud9?startDate=2024-01-01&endDate=2024-12-16,27,14,13,606,316,0.519,54,29,0.537,0.541,0.503
+Cloud9,Anubis,https://www.hltv.org/stats/teams/map/48/5752/cloud9?startDate=2024-01-01&endDate=2024-12-16,26,16,10,540,285,0.615,52,34,0.654,0.441,0.626
+Cloud9,Dust2,https://www.hltv.org/stats/teams/map/31/5752/cloud9?startDate=2024-01-01&endDate=2024-12-16,14,7,7,321,173,0.5,28,14,0.5,0.523,0.552
+Cloud9,Inferno,https://www.hltv.org/stats/teams/map/33/5752/cloud9?startDate=2024-01-01&endDate=2024-12-16,10,5,5,209,105,0.5,20,9,0.45,0.48100000000000004,0.524
+Cloud9,Mirage,https://www.hltv.org/stats/teams/map/32/5752/cloud9?startDate=2024-01-01&endDate=2024-12-16,26,15,11,551,299,0.5770000000000001,52,28,0.5379999999999999,0.568,0.519
+Cloud9,Nuke,https://www.hltv.org/stats/teams/map/34/5752/cloud9?startDate=2024-01-01&endDate=2024-12-16,9,2,7,207,93,0.222,18,7,0.389,0.41700000000000004,0.48100000000000004
+Cloud9,Overpass,https://www.hltv.org/stats/teams/map/40/5752/cloud9?startDate=2024-01-01&endDate=2024-12-16,12,7,5,258,140,0.583,24,15,0.625,0.659,0.42100000000000004
+Cloud9,Vertigo,https://www.hltv.org/stats/teams/map/46/5752/cloud9?startDate=2024-01-01&endDate=2024-12-16,6,3,3,134,69,0.5,12,6,0.5,0.532,0.5
+fnatic,Ancient,https://www.hltv.org/stats/teams/map/47/4991/fnatic?startDate=2024-01-01&endDate=2024-12-16,58,35,23,1206,637,0.603,116,66,0.569,0.542,0.516
+fnatic,Anubis,https://www.hltv.org/stats/teams/map/48/4991/fnatic?startDate=2024-01-01&endDate=2024-12-16,34,14,20,779,377,0.41200000000000003,68,29,0.426,0.43799999999999994,0.524
+fnatic,Dust2,https://www.hltv.org/stats/teams/map/31/4991/fnatic?startDate=2024-01-01&endDate=2024-12-16,13,7,6,291,150,0.5379999999999999,26,15,0.5770000000000001,0.475,0.5529999999999999
+fnatic,Inferno,https://www.hltv.org/stats/teams/map/33/4991/fnatic?startDate=2024-01-01&endDate=2024-12-16,31,15,16,678,350,0.484,62,34,0.5479999999999999,0.502,0.53
+fnatic,Mirage,https://www.hltv.org/stats/teams/map/32/4991/fnatic?startDate=2024-01-01&endDate=2024-12-16,20,5,15,434,197,0.25,40,20,0.5,0.528,0.36700000000000005
+fnatic,Nuke,https://www.hltv.org/stats/teams/map/34/4991/fnatic?startDate=2024-01-01&endDate=2024-12-16,7,4,3,153,75,0.5710000000000001,14,8,0.5710000000000001,0.524,0.451
+fnatic,Overpass,https://www.hltv.org/stats/teams/map/40/4991/fnatic?startDate=2024-01-01&endDate=2024-12-16,14,7,7,290,144,0.5,28,10,0.35700000000000004,0.615,0.373
+fnatic,Vertigo,https://www.hltv.org/stats/teams/map/46/4991/fnatic?startDate=2024-01-01&endDate=2024-12-16,32,18,14,707,380,0.562,64,36,0.562,0.536,0.5379999999999999
+BetBoom,Ancient,https://www.hltv.org/stats/teams/map/47/12394/betboom?startDate=2024-01-01&endDate=2024-12-16,41,25,16,846,442,0.61,82,42,0.512,0.509,0.535
+BetBoom,Anubis,https://www.hltv.org/stats/teams/map/48/12394/betboom?startDate=2024-01-01&endDate=2024-12-16,40,22,18,864,442,0.55,80,41,0.512,0.45299999999999996,0.565
+BetBoom,Dust2,https://www.hltv.org/stats/teams/map/31/12394/betboom?startDate=2024-01-01&endDate=2024-12-16,12,8,4,229,129,0.667,24,14,0.583,0.562,0.565
+BetBoom,Inferno,https://www.hltv.org/stats/teams/map/33/12394/betboom?startDate=2024-01-01&endDate=2024-12-16,2,1,1,37,19,0.5,4,1,0.25,0.5379999999999999,0.5
+BetBoom,Mirage,https://www.hltv.org/stats/teams/map/32/12394/betboom?startDate=2024-01-01&endDate=2024-12-16,44,30,14,950,522,0.682,88,49,0.557,0.5720000000000001,0.531
+BetBoom,Nuke,https://www.hltv.org/stats/teams/map/34/12394/betboom?startDate=2024-01-01&endDate=2024-12-16,37,20,17,765,384,0.541,74,39,0.527,0.47,0.534
+BetBoom,Overpass,https://www.hltv.org/stats/teams/map/40/12394/betboom?startDate=2024-01-01&endDate=2024-12-16,20,12,8,482,250,0.6,40,21,0.525,0.613,0.433
+BetBoom,Vertigo,https://www.hltv.org/stats/teams/map/46/12394/betboom?startDate=2024-01-01&endDate=2024-12-16,21,6,15,448,193,0.28600000000000003,42,17,0.405,0.37200000000000005,0.489
+9z,Ancient,https://www.hltv.org/stats/teams/map/47/9996/9z?startDate=2024-01-01&endDate=2024-12-16,38,28,10,765,438,0.737,76,35,0.461,0.5579999999999999,0.59
+9z,Anubis,https://www.hltv.org/stats/teams/map/48/9996/9z?startDate=2024-01-01&endDate=2024-12-16,24,12,12,537,267,0.5,48,27,0.562,0.46299999999999997,0.525
+9z,Dust2,https://www.hltv.org/stats/teams/map/31/9996/9z?startDate=2024-01-01&endDate=2024-12-16,28,14,14,599,303,0.5,56,34,0.607,0.502,0.509
+9z,Inferno,https://www.hltv.org/stats/teams/map/33/9996/9z?startDate=2024-01-01&endDate=2024-12-16,22,9,13,518,252,0.409,44,24,0.545,0.504,0.466
+9z,Mirage,https://www.hltv.org/stats/teams/map/32/9996/9z?startDate=2024-01-01&endDate=2024-12-16,30,13,17,636,305,0.433,60,34,0.5670000000000001,0.491,0.467
+9z,Nuke,https://www.hltv.org/stats/teams/map/34/9996/9z?startDate=2024-01-01&endDate=2024-12-16,49,28,21,1094,585,0.5710000000000001,98,54,0.551,0.5579999999999999,0.516
+9z,Overpass,https://www.hltv.org/stats/teams/map/40/9996/9z?startDate=2024-01-01&endDate=2024-12-16,10,5,5,231,123,0.5,20,11,0.55,0.6609999999999999,0.41200000000000003
+9z,Vertigo,https://www.hltv.org/stats/teams/map/46/9996/9z?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+Sangal,Ancient,https://www.hltv.org/stats/teams/map/47/10333/sangal?startDate=2024-01-01&endDate=2024-12-16,43,24,19,947,499,0.5579999999999999,86,38,0.442,0.534,0.519
+Sangal,Anubis,https://www.hltv.org/stats/teams/map/48/10333/sangal?startDate=2024-01-01&endDate=2024-12-16,54,33,21,1130,610,0.611,108,61,0.565,0.485,0.595
+Sangal,Dust2,https://www.hltv.org/stats/teams/map/31/10333/sangal?startDate=2024-01-01&endDate=2024-12-16,11,2,9,223,90,0.182,22,8,0.364,0.444,0.344
+Sangal,Inferno,https://www.hltv.org/stats/teams/map/33/10333/sangal?startDate=2024-01-01&endDate=2024-12-16,1,0,1,19,6,0.0,2,0,0.0,0.41700000000000004,0.14300000000000002
+Sangal,Mirage,https://www.hltv.org/stats/teams/map/32/10333/sangal?startDate=2024-01-01&endDate=2024-12-16,42,31,11,975,539,0.738,84,54,0.643,0.61,0.496
+Sangal,Nuke,https://www.hltv.org/stats/teams/map/34/10333/sangal?startDate=2024-01-01&endDate=2024-12-16,46,26,20,1034,519,0.565,92,46,0.5,0.546,0.461
+Sangal,Overpass,https://www.hltv.org/stats/teams/map/40/10333/sangal?startDate=2024-01-01&endDate=2024-12-16,15,8,7,348,178,0.5329999999999999,30,16,0.5329999999999999,0.573,0.447
+Sangal,Vertigo,https://www.hltv.org/stats/teams/map/46/10333/sangal?startDate=2024-01-01&endDate=2024-12-16,32,19,13,679,360,0.594,64,33,0.516,0.484,0.5760000000000001
+Ninjas in Pyjamas,Ancient,https://www.hltv.org/stats/teams/map/47/4411/ninjas-in-pyjamas?startDate=2024-01-01&endDate=2024-12-16,37,24,13,859,444,0.649,74,37,0.5,0.488,0.544
+Ninjas in Pyjamas,Anubis,https://www.hltv.org/stats/teams/map/48/4411/ninjas-in-pyjamas?startDate=2024-01-01&endDate=2024-12-16,15,6,9,314,145,0.4,30,10,0.33299999999999996,0.39399999999999996,0.517
+Ninjas in Pyjamas,Dust2,https://www.hltv.org/stats/teams/map/31/4411/ninjas-in-pyjamas?startDate=2024-01-01&endDate=2024-12-16,7,1,6,133,47,0.14300000000000002,14,4,0.28600000000000003,0.268,0.452
+Ninjas in Pyjamas,Inferno,https://www.hltv.org/stats/teams/map/33/4411/ninjas-in-pyjamas?startDate=2024-01-01&endDate=2024-12-16,12,6,6,253,121,0.5,24,13,0.542,0.406,0.552
+Ninjas in Pyjamas,Mirage,https://www.hltv.org/stats/teams/map/32/4411/ninjas-in-pyjamas?startDate=2024-01-01&endDate=2024-12-16,19,5,14,456,205,0.263,38,13,0.342,0.46399999999999997,0.433
+Ninjas in Pyjamas,Nuke,https://www.hltv.org/stats/teams/map/34/4411/ninjas-in-pyjamas?startDate=2024-01-01&endDate=2024-12-16,21,6,15,422,181,0.28600000000000003,42,19,0.452,0.522,0.32
+Ninjas in Pyjamas,Overpass,https://www.hltv.org/stats/teams/map/40/4411/ninjas-in-pyjamas?startDate=2024-01-01&endDate=2024-12-16,9,1,8,236,105,0.111,18,12,0.667,0.575,0.325
+Ninjas in Pyjamas,Vertigo,https://www.hltv.org/stats/teams/map/46/4411/ninjas-in-pyjamas?startDate=2024-01-01&endDate=2024-12-16,28,13,15,613,313,0.46399999999999997,56,29,0.518,0.53,0.494
+RED Canids,Ancient,https://www.hltv.org/stats/teams/map/47/7176/red-canids?startDate=2024-01-01&endDate=2024-12-16,44,21,23,913,454,0.47700000000000004,88,40,0.455,0.45,0.5489999999999999
+RED Canids,Anubis,https://www.hltv.org/stats/teams/map/48/7176/red-canids?startDate=2024-01-01&endDate=2024-12-16,48,28,20,1045,554,0.583,96,48,0.5,0.47700000000000004,0.594
+RED Canids,Dust2,https://www.hltv.org/stats/teams/map/31/7176/red-canids?startDate=2024-01-01&endDate=2024-12-16,23,10,13,517,247,0.435,46,21,0.457,0.517,0.429
+RED Canids,Inferno,https://www.hltv.org/stats/teams/map/33/7176/red-canids?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+RED Canids,Mirage,https://www.hltv.org/stats/teams/map/32/7176/red-canids?startDate=2024-01-01&endDate=2024-12-16,61,39,22,1368,721,0.639,122,72,0.59,0.5670000000000001,0.489
+RED Canids,Nuke,https://www.hltv.org/stats/teams/map/34/7176/red-canids?startDate=2024-01-01&endDate=2024-12-16,56,35,21,1235,661,0.625,112,56,0.5,0.605,0.46299999999999997
+RED Canids,Overpass,https://www.hltv.org/stats/teams/map/40/7176/red-canids?startDate=2024-01-01&endDate=2024-12-16,19,13,6,398,223,0.684,38,20,0.526,0.606,0.523
+RED Canids,Vertigo,https://www.hltv.org/stats/teams/map/46/7176/red-canids?startDate=2024-01-01&endDate=2024-12-16,30,15,15,624,324,0.5,60,29,0.483,0.518,0.52
+ECLOT,Ancient,https://www.hltv.org/stats/teams/map/47/7441/eclot?startDate=2024-01-01&endDate=2024-12-16,53,30,23,1136,597,0.5660000000000001,106,53,0.5,0.536,0.513
+ECLOT,Anubis,https://www.hltv.org/stats/teams/map/48/7441/eclot?startDate=2024-01-01&endDate=2024-12-16,64,38,26,1386,717,0.594,128,74,0.578,0.452,0.594
+ECLOT,Dust2,https://www.hltv.org/stats/teams/map/31/7441/eclot?startDate=2024-01-01&endDate=2024-12-16,24,13,11,512,262,0.542,48,22,0.45799999999999996,0.515,0.508
+ECLOT,Inferno,https://www.hltv.org/stats/teams/map/33/7441/eclot?startDate=2024-01-01&endDate=2024-12-16,28,17,11,607,319,0.607,56,27,0.48200000000000004,0.521,0.531
+ECLOT,Mirage,https://www.hltv.org/stats/teams/map/32/7441/eclot?startDate=2024-01-01&endDate=2024-12-16,67,41,26,1471,778,0.612,134,63,0.47,0.5379999999999999,0.521
+ECLOT,Nuke,https://www.hltv.org/stats/teams/map/34/7441/eclot?startDate=2024-01-01&endDate=2024-12-16,62,30,32,1334,653,0.484,124,68,0.5479999999999999,0.507,0.473
+ECLOT,Overpass,https://www.hltv.org/stats/teams/map/40/7441/eclot?startDate=2024-01-01&endDate=2024-12-16,17,9,8,368,182,0.529,34,15,0.441,0.556,0.436
+ECLOT,Vertigo,https://www.hltv.org/stats/teams/map/46/7441/eclot?startDate=2024-01-01&endDate=2024-12-16,8,2,6,163,64,0.25,16,8,0.5,0.34,0.47
+Rare Atom,Ancient,https://www.hltv.org/stats/teams/map/47/11514/rare-atom?startDate=2024-01-01&endDate=2024-12-16,27,14,13,576,295,0.519,54,24,0.444,0.5,0.522
+Rare Atom,Anubis,https://www.hltv.org/stats/teams/map/48/11514/rare-atom?startDate=2024-01-01&endDate=2024-12-16,27,15,12,538,268,0.556,54,29,0.537,0.478,0.515
+Rare Atom,Dust2,https://www.hltv.org/stats/teams/map/31/11514/rare-atom?startDate=2024-01-01&endDate=2024-12-16,9,4,5,191,92,0.444,18,12,0.667,0.456,0.505
+Rare Atom,Inferno,https://www.hltv.org/stats/teams/map/33/11514/rare-atom?startDate=2024-01-01&endDate=2024-12-16,26,16,10,577,303,0.615,52,31,0.596,0.45,0.595
+Rare Atom,Mirage,https://www.hltv.org/stats/teams/map/32/11514/rare-atom?startDate=2024-01-01&endDate=2024-12-16,20,7,13,450,206,0.35,40,17,0.425,0.498,0.419
+Rare Atom,Nuke,https://www.hltv.org/stats/teams/map/34/11514/rare-atom?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+Rare Atom,Overpass,https://www.hltv.org/stats/teams/map/40/11514/rare-atom?startDate=2024-01-01&endDate=2024-12-16,5,4,1,109,64,0.8,10,5,0.5,0.696,0.47200000000000003
+Rare Atom,Vertigo,https://www.hltv.org/stats/teams/map/46/11514/rare-atom?startDate=2024-01-01&endDate=2024-12-16,13,8,5,271,147,0.615,26,15,0.5770000000000001,0.51,0.581
+Monte,Ancient,https://www.hltv.org/stats/teams/map/47/11811/monte?startDate=2024-01-01&endDate=2024-12-16,43,22,21,921,481,0.512,86,50,0.581,0.569,0.465
+Monte,Anubis,https://www.hltv.org/stats/teams/map/48/11811/monte?startDate=2024-01-01&endDate=2024-12-16,42,25,17,968,498,0.595,84,44,0.524,0.485,0.546
+Monte,Dust2,https://www.hltv.org/stats/teams/map/31/11811/monte?startDate=2024-01-01&endDate=2024-12-16,19,11,8,388,215,0.579,38,28,0.737,0.5379999999999999,0.5720000000000001
+Monte,Inferno,https://www.hltv.org/stats/teams/map/33/11811/monte?startDate=2024-01-01&endDate=2024-12-16,1,1,0,22,13,1.0,2,1,0.5,0.41700000000000004,0.8
+Monte,Mirage,https://www.hltv.org/stats/teams/map/32/11811/monte?startDate=2024-01-01&endDate=2024-12-16,64,34,30,1364,705,0.531,128,64,0.5,0.527,0.508
+Monte,Nuke,https://www.hltv.org/stats/teams/map/34/11811/monte?startDate=2024-01-01&endDate=2024-12-16,46,24,22,1030,524,0.522,92,44,0.478,0.509,0.508
+Monte,Overpass,https://www.hltv.org/stats/teams/map/40/11811/monte?startDate=2024-01-01&endDate=2024-12-16,5,2,3,112,51,0.4,10,3,0.3,0.5329999999999999,0.365
+Monte,Vertigo,https://www.hltv.org/stats/teams/map/46/11811/monte?startDate=2024-01-01&endDate=2024-12-16,38,19,19,831,414,0.5,76,38,0.5,0.498,0.499
+Nemiga,Ancient,https://www.hltv.org/stats/teams/map/47/7969/nemiga?startDate=2024-01-01&endDate=2024-12-16,79,54,25,1734,976,0.684,158,84,0.532,0.5670000000000001,0.5589999999999999
+Nemiga,Anubis,https://www.hltv.org/stats/teams/map/48/7969/nemiga?startDate=2024-01-01&endDate=2024-12-16,56,36,20,1266,676,0.643,112,59,0.527,0.446,0.609
+Nemiga,Dust2,https://www.hltv.org/stats/teams/map/31/7969/nemiga?startDate=2024-01-01&endDate=2024-12-16,19,11,8,447,238,0.579,38,20,0.526,0.508,0.56
+Nemiga,Inferno,https://www.hltv.org/stats/teams/map/33/7969/nemiga?startDate=2024-01-01&endDate=2024-12-16,32,17,15,707,344,0.531,64,32,0.5,0.49,0.483
+Nemiga,Mirage,https://www.hltv.org/stats/teams/map/32/7969/nemiga?startDate=2024-01-01&endDate=2024-12-16,26,14,12,578,303,0.5379999999999999,52,26,0.5,0.511,0.542
+Nemiga,Nuke,https://www.hltv.org/stats/teams/map/34/7969/nemiga?startDate=2024-01-01&endDate=2024-12-16,14,6,8,283,137,0.429,28,13,0.46399999999999997,0.519,0.43799999999999994
+Nemiga,Overpass,https://www.hltv.org/stats/teams/map/40/7969/nemiga?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+Nemiga,Vertigo,https://www.hltv.org/stats/teams/map/46/7969/nemiga?startDate=2024-01-01&endDate=2024-12-16,30,18,12,643,333,0.6,60,29,0.483,0.47200000000000003,0.564
+ENCE,Ancient,https://www.hltv.org/stats/teams/map/47/4869/ence?startDate=2024-01-01&endDate=2024-12-16,33,14,19,708,350,0.424,66,31,0.47,0.518,0.47
+ENCE,Anubis,https://www.hltv.org/stats/teams/map/48/4869/ence?startDate=2024-01-01&endDate=2024-12-16,21,11,10,446,233,0.524,42,19,0.452,0.48100000000000004,0.56
+ENCE,Dust2,https://www.hltv.org/stats/teams/map/31/4869/ence?startDate=2024-01-01&endDate=2024-12-16,12,5,7,269,124,0.41700000000000004,24,8,0.33299999999999996,0.45,0.47100000000000003
+ENCE,Inferno,https://www.hltv.org/stats/teams/map/33/4869/ence?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+ENCE,Mirage,https://www.hltv.org/stats/teams/map/32/4869/ence?startDate=2024-01-01&endDate=2024-12-16,21,9,12,434,200,0.429,42,15,0.35700000000000004,0.43799999999999994,0.486
+ENCE,Nuke,https://www.hltv.org/stats/teams/map/34/4869/ence?startDate=2024-01-01&endDate=2024-12-16,26,10,16,545,259,0.385,52,23,0.442,0.498,0.45399999999999996
+ENCE,Overpass,https://www.hltv.org/stats/teams/map/40/4869/ence?startDate=2024-01-01&endDate=2024-12-16,6,1,5,119,45,0.16699999999999998,12,5,0.41700000000000004,0.35600000000000004,0.4
+ENCE,Vertigo,https://www.hltv.org/stats/teams/map/46/4869/ence?startDate=2024-01-01&endDate=2024-12-16,22,14,8,488,257,0.636,44,24,0.545,0.516,0.537
+BESTIA,Ancient,https://www.hltv.org/stats/teams/map/47/12144/bestia?startDate=2024-01-01&endDate=2024-12-16,39,17,22,871,431,0.436,78,47,0.603,0.484,0.508
+BESTIA,Anubis,https://www.hltv.org/stats/teams/map/48/12144/bestia?startDate=2024-01-01&endDate=2024-12-16,65,32,33,1412,718,0.49200000000000005,130,70,0.5379999999999999,0.47200000000000003,0.5479999999999999
+BESTIA,Dust2,https://www.hltv.org/stats/teams/map/31/12144/bestia?startDate=2024-01-01&endDate=2024-12-16,37,21,16,775,403,0.568,74,35,0.473,0.568,0.47200000000000003
+BESTIA,Inferno,https://www.hltv.org/stats/teams/map/33/12144/bestia?startDate=2024-01-01&endDate=2024-12-16,55,35,20,1247,673,0.636,110,67,0.609,0.557,0.525
+BESTIA,Mirage,https://www.hltv.org/stats/teams/map/32/12144/bestia?startDate=2024-01-01&endDate=2024-12-16,53,30,23,1086,577,0.5660000000000001,106,53,0.5,0.53,0.532
+BESTIA,Nuke,https://www.hltv.org/stats/teams/map/34/12144/bestia?startDate=2024-01-01&endDate=2024-12-16,37,20,17,726,371,0.541,74,34,0.45899999999999996,0.552,0.46
+BESTIA,Overpass,https://www.hltv.org/stats/teams/map/40/12144/bestia?startDate=2024-01-01&endDate=2024-12-16,6,2,4,112,52,0.33299999999999996,12,2,0.16699999999999998,0.607,0.294
+BESTIA,Vertigo,https://www.hltv.org/stats/teams/map/46/12144/bestia?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+TYLOO,Ancient,https://www.hltv.org/stats/teams/map/47/4863/tyloo?startDate=2024-01-01&endDate=2024-12-16,18,7,11,377,179,0.389,36,18,0.5,0.456,0.495
+TYLOO,Anubis,https://www.hltv.org/stats/teams/map/48/4863/tyloo?startDate=2024-01-01&endDate=2024-12-16,20,14,6,388,231,0.7,40,23,0.575,0.5479999999999999,0.64
+TYLOO,Dust2,https://www.hltv.org/stats/teams/map/31/4863/tyloo?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+TYLOO,Inferno,https://www.hltv.org/stats/teams/map/33/4863/tyloo?startDate=2024-01-01&endDate=2024-12-16,21,11,10,492,252,0.524,42,26,0.619,0.5489999999999999,0.48100000000000004
+TYLOO,Mirage,https://www.hltv.org/stats/teams/map/32/4863/tyloo?startDate=2024-01-01&endDate=2024-12-16,15,11,4,316,188,0.733,30,22,0.733,0.6409999999999999,0.552
+TYLOO,Nuke,https://www.hltv.org/stats/teams/map/34/4863/tyloo?startDate=2024-01-01&endDate=2024-12-16,19,14,5,367,214,0.737,38,20,0.526,0.6759999999999999,0.489
+TYLOO,Overpass,https://www.hltv.org/stats/teams/map/40/4863/tyloo?startDate=2024-01-01&endDate=2024-12-16,7,1,6,146,56,0.14300000000000002,14,5,0.35700000000000004,0.39399999999999996,0.373
+TYLOO,Vertigo,https://www.hltv.org/stats/teams/map/46/4863/tyloo?startDate=2024-01-01&endDate=2024-12-16,6,5,1,126,74,0.833,12,7,0.583,0.508,0.667
+9 Pandas,Ancient,https://www.hltv.org/stats/teams/map/47/11883/9-pandas?startDate=2024-01-01&endDate=2024-12-16,39,23,16,788,424,0.59,78,44,0.564,0.568,0.503
+9 Pandas,Anubis,https://www.hltv.org/stats/teams/map/48/11883/9-pandas?startDate=2024-01-01&endDate=2024-12-16,45,22,23,962,492,0.489,90,44,0.489,0.39,0.618
+9 Pandas,Dust2,https://www.hltv.org/stats/teams/map/31/11883/9-pandas?startDate=2024-01-01&endDate=2024-12-16,30,23,7,652,376,0.767,60,35,0.583,0.516,0.63
+9 Pandas,Inferno,https://www.hltv.org/stats/teams/map/33/11883/9-pandas?startDate=2024-01-01&endDate=2024-12-16,31,20,11,705,387,0.645,62,31,0.5,0.545,0.5529999999999999
+9 Pandas,Mirage,https://www.hltv.org/stats/teams/map/32/11883/9-pandas?startDate=2024-01-01&endDate=2024-12-16,39,23,16,831,438,0.59,78,39,0.5,0.535,0.517
+9 Pandas,Nuke,https://www.hltv.org/stats/teams/map/34/11883/9-pandas?startDate=2024-01-01&endDate=2024-12-16,57,34,23,1198,655,0.596,114,62,0.544,0.575,0.52
+9 Pandas,Overpass,https://www.hltv.org/stats/teams/map/40/11883/9-pandas?startDate=2024-01-01&endDate=2024-12-16,21,11,10,490,257,0.524,42,25,0.595,0.574,0.483
+9 Pandas,Vertigo,https://www.hltv.org/stats/teams/map/46/11883/9-pandas?startDate=2024-01-01&endDate=2024-12-16,2,0,2,38,12,0.0,4,1,0.25,0.429,0.25
+NAVI Junior,Ancient,https://www.hltv.org/stats/teams/map/47/10371/navi-junior?startDate=2024-01-01&endDate=2024-12-16,53,38,15,1138,641,0.7170000000000001,106,52,0.491,0.5760000000000001,0.551
+NAVI Junior,Anubis,https://www.hltv.org/stats/teams/map/48/10371/navi-junior?startDate=2024-01-01&endDate=2024-12-16,37,29,8,789,457,0.784,74,41,0.5539999999999999,0.519,0.6459999999999999
+NAVI Junior,Dust2,https://www.hltv.org/stats/teams/map/31/10371/navi-junior?startDate=2024-01-01&endDate=2024-12-16,20,14,6,446,253,0.7,40,25,0.625,0.54,0.593
+NAVI Junior,Inferno,https://www.hltv.org/stats/teams/map/33/10371/navi-junior?startDate=2024-01-01&endDate=2024-12-16,19,10,9,402,208,0.526,38,21,0.5529999999999999,0.509,0.527
+NAVI Junior,Mirage,https://www.hltv.org/stats/teams/map/32/10371/navi-junior?startDate=2024-01-01&endDate=2024-12-16,28,14,14,619,311,0.5,56,29,0.518,0.48700000000000004,0.518
+NAVI Junior,Nuke,https://www.hltv.org/stats/teams/map/34/10371/navi-junior?startDate=2024-01-01&endDate=2024-12-16,32,14,18,652,316,0.43799999999999994,64,33,0.516,0.516,0.449
+NAVI Junior,Overpass,https://www.hltv.org/stats/teams/map/40/10371/navi-junior?startDate=2024-01-01&endDate=2024-12-16,2,0,2,43,17,0.0,4,3,0.75,0.25,0.579
+NAVI Junior,Vertigo,https://www.hltv.org/stats/teams/map/46/10371/navi-junior?startDate=2024-01-01&endDate=2024-12-16,3,1,2,64,29,0.33299999999999996,6,2,0.33299999999999996,0.47100000000000003,0.433
+Sashi,Ancient,https://www.hltv.org/stats/teams/map/47/11712/sashi?startDate=2024-01-01&endDate=2024-12-16,35,18,17,759,388,0.514,70,30,0.429,0.48200000000000004,0.5479999999999999
+Sashi,Anubis,https://www.hltv.org/stats/teams/map/48/11712/sashi?startDate=2024-01-01&endDate=2024-12-16,42,17,25,889,424,0.405,84,42,0.5,0.377,0.5579999999999999
+Sashi,Dust2,https://www.hltv.org/stats/teams/map/31/11712/sashi?startDate=2024-01-01&endDate=2024-12-16,2,1,1,38,16,0.5,4,3,0.75,0.45799999999999996,0.35700000000000004
+Sashi,Inferno,https://www.hltv.org/stats/teams/map/33/11712/sashi?startDate=2024-01-01&endDate=2024-12-16,20,16,4,461,252,0.8,40,14,0.35,0.546,0.547
+Sashi,Mirage,https://www.hltv.org/stats/teams/map/32/11712/sashi?startDate=2024-01-01&endDate=2024-12-16,51,25,26,1130,565,0.49,102,51,0.5,0.474,0.529
+Sashi,Nuke,https://www.hltv.org/stats/teams/map/34/11712/sashi?startDate=2024-01-01&endDate=2024-12-16,56,36,20,1268,677,0.643,112,61,0.545,0.537,0.531
+Sashi,Overpass,https://www.hltv.org/stats/teams/map/40/11712/sashi?startDate=2024-01-01&endDate=2024-12-16,13,10,3,280,165,0.769,26,11,0.423,0.603,0.5770000000000001
+Sashi,Vertigo,https://www.hltv.org/stats/teams/map/46/11712/sashi?startDate=2024-01-01&endDate=2024-12-16,43,27,16,909,483,0.628,86,41,0.47700000000000004,0.503,0.5589999999999999
+Lynn Vision,Ancient,https://www.hltv.org/stats/teams/map/47/8840/lynn-vision?startDate=2024-01-01&endDate=2024-12-16,27,13,14,590,301,0.48100000000000004,54,31,0.574,0.49700000000000005,0.527
+Lynn Vision,Anubis,https://www.hltv.org/stats/teams/map/48/8840/lynn-vision?startDate=2024-01-01&endDate=2024-12-16,25,13,12,506,264,0.52,50,30,0.6,0.457,0.603
+Lynn Vision,Dust2,https://www.hltv.org/stats/teams/map/31/8840/lynn-vision?startDate=2024-01-01&endDate=2024-12-16,15,9,6,317,170,0.6,30,16,0.5329999999999999,0.56,0.517
+Lynn Vision,Inferno,https://www.hltv.org/stats/teams/map/33/8840/lynn-vision?startDate=2024-01-01&endDate=2024-12-16,17,9,8,379,184,0.529,34,16,0.47100000000000003,0.479,0.494
+Lynn Vision,Mirage,https://www.hltv.org/stats/teams/map/32/8840/lynn-vision?startDate=2024-01-01&endDate=2024-12-16,0,0,0,0,0,0.0,0,0,0.0,0.0,0.0
+Lynn Vision,Nuke,https://www.hltv.org/stats/teams/map/34/8840/lynn-vision?startDate=2024-01-01&endDate=2024-12-16,19,9,10,373,184,0.474,38,23,0.605,0.541,0.44799999999999995
+Lynn Vision,Overpass,https://www.hltv.org/stats/teams/map/40/8840/lynn-vision?startDate=2024-01-01&endDate=2024-12-16,3,1,2,61,32,0.33299999999999996,6,4,0.667,0.528,0.52
+Lynn Vision,Vertigo,https://www.hltv.org/stats/teams/map/46/8840/lynn-vision?startDate=2024-01-01&endDate=2024-12-16,7,2,5,150,72,0.28600000000000003,14,7,0.5,0.44,0.53
+500,Ancient,https://www.hltv.org/stats/teams/map/47/12000/500?startDate=2024-01-01&endDate=2024-12-16,30,18,12,669,350,0.6,60,33,0.55,0.5529999999999999,0.494
+500,Anubis,https://www.hltv.org/stats/teams/map/48/12000/500?startDate=2024-01-01&endDate=2024-12-16,35,14,21,820,388,0.4,70,33,0.47100000000000003,0.402,0.544
+500,Dust2,https://www.hltv.org/stats/teams/map/31/12000/500?startDate=2024-01-01&endDate=2024-12-16,7,3,4,153,71,0.429,14,9,0.643,0.425,0.515
+500,Inferno,https://www.hltv.org/stats/teams/map/33/12000/500?startDate=2024-01-01&endDate=2024-12-16,23,15,8,502,265,0.652,46,27,0.5870000000000001,0.45299999999999996,0.594
+500,Mirage,https://www.hltv.org/stats/teams/map/32/12000/500?startDate=2024-01-01&endDate=2024-12-16,40,25,15,913,492,0.625,80,38,0.475,0.5660000000000001,0.513
+500,Nuke,https://www.hltv.org/stats/teams/map/34/12000/500?startDate=2024-01-01&endDate=2024-12-16,19,8,11,418,201,0.42100000000000004,38,15,0.395,0.457,0.511
+500,Overpass,https://www.hltv.org/stats/teams/map/40/12000/500?startDate=2024-01-01&endDate=2024-12-16,17,10,7,366,196,0.588,34,18,0.529,0.581,0.502
+500,Vertigo,https://www.hltv.org/stats/teams/map/46/12000/500?startDate=2024-01-01&endDate=2024-12-16,1,0,1,20,7,0.0,2,2,1.0,0.5,0.25
+OG,Ancient,https://www.hltv.org/stats/teams/map/47/10503/og?startDate=2024-01-01&endDate=2024-12-16,42,21,21,885,443,0.5,84,43,0.512,0.535,0.46799999999999997
+OG,Anubis,https://www.hltv.org/stats/teams/map/48/10503/og?startDate=2024-01-01&endDate=2024-12-16,28,12,16,635,309,0.429,56,28,0.5,0.45399999999999996,0.515
+OG,Dust2,https://www.hltv.org/stats/teams/map/31/10503/og?startDate=2024-01-01&endDate=2024-12-16,17,7,10,372,177,0.41200000000000003,34,20,0.588,0.541,0.42100000000000004
+OG,Inferno,https://www.hltv.org/stats/teams/map/33/10503/og?startDate=2024-01-01&endDate=2024-12-16,21,6,15,472,211,0.28600000000000003,42,18,0.429,0.462,0.43200000000000005
+OG,Mirage,https://www.hltv.org/stats/teams/map/32/10503/og?startDate=2024-01-01&endDate=2024-12-16,14,7,7,293,148,0.5,28,15,0.536,0.5379999999999999,0.473
+OG,Nuke,https://www.hltv.org/stats/teams/map/34/10503/og?startDate=2024-01-01&endDate=2024-12-16,11,6,5,235,117,0.545,22,14,0.636,0.525,0.469
+OG,Overpass,https://www.hltv.org/stats/teams/map/40/10503/og?startDate=2024-01-01&endDate=2024-12-16,10,4,6,205,98,0.4,20,7,0.35,0.5539999999999999,0.369
+OG,Vertigo,https://www.hltv.org/stats/teams/map/46/10503/og?startDate=2024-01-01&endDate=2024-12-16,17,10,7,381,202,0.588,34,18,0.529,0.508,0.5539999999999999
+SINNERS,Ancient,https://www.hltv.org/stats/teams/map/47/10577/sinners?startDate=2024-01-01&endDate=2024-12-16,63,33,30,1392,706,0.524,126,68,0.54,0.493,0.522
+SINNERS,Anubis,https://www.hltv.org/stats/teams/map/48/10577/sinners?startDate=2024-01-01&endDate=2024-12-16,45,22,23,997,497,0.489,90,41,0.456,0.413,0.57
+SINNERS,Dust2,https://www.hltv.org/stats/teams/map/31/10577/sinners?startDate=2024-01-01&endDate=2024-12-16,39,21,18,823,425,0.5379999999999999,78,47,0.603,0.491,0.539
+SINNERS,Inferno,https://www.hltv.org/stats/teams/map/33/10577/sinners?startDate=2024-01-01&endDate=2024-12-16,63,33,30,1401,687,0.524,126,64,0.508,0.457,0.519
+SINNERS,Mirage,https://www.hltv.org/stats/teams/map/32/10577/sinners?startDate=2024-01-01&endDate=2024-12-16,64,29,35,1387,686,0.45299999999999996,128,63,0.49200000000000005,0.5,0.488
+SINNERS,Nuke,https://www.hltv.org/stats/teams/map/34/10577/sinners?startDate=2024-01-01&endDate=2024-12-16,73,41,32,1612,817,0.562,146,78,0.534,0.546,0.473
+SINNERS,Overpass,https://www.hltv.org/stats/teams/map/40/10577/sinners?startDate=2024-01-01&endDate=2024-12-16,15,8,7,333,168,0.5329999999999999,30,9,0.3,0.503,0.506
+SINNERS,Vertigo,https://www.hltv.org/stats/teams/map/46/10577/sinners?startDate=2024-01-01&endDate=2024-12-16,9,7,2,199,111,0.778,18,11,0.611,0.564,0.552
+Spirit Academy,Ancient,https://www.hltv.org/stats/teams/map/47/7900/spirit-academy?startDate=2024-01-01&endDate=2024-12-16,32,16,16,666,337,0.5,64,36,0.562,0.544,0.461
+Spirit Academy,Anubis,https://www.hltv.org/stats/teams/map/48/7900/spirit-academy?startDate=2024-01-01&endDate=2024-12-16,29,14,15,599,293,0.483,58,20,0.345,0.478,0.5
+Spirit Academy,Dust2,https://www.hltv.org/stats/teams/map/31/7900/spirit-academy?startDate=2024-01-01&endDate=2024-12-16,22,14,8,500,271,0.636,44,20,0.455,0.55,0.534
+Spirit Academy,Inferno,https://www.hltv.org/stats/teams/map/33/7900/spirit-academy?startDate=2024-01-01&endDate=2024-12-16,1,1,0,21,13,1.0,2,2,1.0,0.5,0.778
+Spirit Academy,Mirage,https://www.hltv.org/stats/teams/map/32/7900/spirit-academy?startDate=2024-01-01&endDate=2024-12-16,29,20,9,592,325,0.69,58,29,0.5,0.522,0.57
+Spirit Academy,Nuke,https://www.hltv.org/stats/teams/map/34/7900/spirit-academy?startDate=2024-01-01&endDate=2024-12-16,30,21,9,670,364,0.7,60,31,0.517,0.633,0.456
+Spirit Academy,Overpass,https://www.hltv.org/stats/teams/map/40/7900/spirit-academy?startDate=2024-01-01&endDate=2024-12-16,2,0,2,42,16,0.0,4,2,0.5,0.524,0.23800000000000002
+Spirit Academy,Vertigo,https://www.hltv.org/stats/teams/map/46/7900/spirit-academy?startDate=2024-01-01&endDate=2024-12-16,18,16,2,369,226,0.889,36,21,0.583,0.512,0.695
+Legacy,Ancient,https://www.hltv.org/stats/teams/map/47/12468/legacy?startDate=2024-01-01&endDate=2024-12-16,52,32,20,1115,605,0.615,104,73,0.7020000000000001,0.545,0.54
+Legacy,Anubis,https://www.hltv.org/stats/teams/map/48/12468/legacy?startDate=2024-01-01&endDate=2024-12-16,31,18,13,686,361,0.581,62,30,0.484,0.478,0.568
+Legacy,Dust2,https://www.hltv.org/stats/teams/map/31/12468/legacy?startDate=2024-01-01&endDate=2024-12-16,14,9,5,306,163,0.643,28,16,0.5710000000000001,0.53,0.536
+Legacy,Inferno,https://www.hltv.org/stats/teams/map/33/12468/legacy?startDate=2024-01-01&endDate=2024-12-16,33,24,9,672,376,0.727,66,39,0.591,0.593,0.53
+Legacy,Mirage,https://www.hltv.org/stats/teams/map/32/12468/legacy?startDate=2024-01-01&endDate=2024-12-16,31,21,10,669,375,0.677,62,34,0.5479999999999999,0.568,0.5539999999999999
+Legacy,Nuke,https://www.hltv.org/stats/teams/map/34/12468/legacy?startDate=2024-01-01&endDate=2024-12-16,17,11,6,381,208,0.647,34,22,0.647,0.634,0.45799999999999996
+Legacy,Overpass,https://www.hltv.org/stats/teams/map/40/12468/legacy?startDate=2024-01-01&endDate=2024-12-16,9,5,4,197,100,0.556,18,13,0.722,0.595,0.442
+Legacy,Vertigo,https://www.hltv.org/stats/teams/map/46/12468/legacy?startDate=2024-01-01&endDate=2024-12-16,7,3,4,154,72,0.429,14,7,0.5,0.467,0.46799999999999997
+NRG,Ancient,https://www.hltv.org/stats/teams/map/47/6673/nrg?startDate=2024-01-01&endDate=2024-12-16,51,28,23,1052,569,0.5489999999999999,102,54,0.529,0.547,0.534
+NRG,Anubis,https://www.hltv.org/stats/teams/map/48/6673/nrg?startDate=2024-01-01&endDate=2024-12-16,38,22,16,788,424,0.579,76,37,0.48700000000000004,0.494,0.5820000000000001
+NRG,Dust2,https://www.hltv.org/stats/teams/map/31/6673/nrg?startDate=2024-01-01&endDate=2024-12-16,19,13,6,394,231,0.684,38,25,0.6579999999999999,0.601,0.5710000000000001
+NRG,Inferno,https://www.hltv.org/stats/teams/map/33/6673/nrg?startDate=2024-01-01&endDate=2024-12-16,40,30,10,778,455,0.75,80,43,0.5379999999999999,0.561,0.603
+NRG,Mirage,https://www.hltv.org/stats/teams/map/32/6673/nrg?startDate=2024-01-01&endDate=2024-12-16,40,27,13,852,481,0.675,80,42,0.525,0.552,0.5770000000000001
+NRG,Nuke,https://www.hltv.org/stats/teams/map/34/6673/nrg?startDate=2024-01-01&endDate=2024-12-16,11,6,5,253,131,0.545,22,15,0.682,0.532,0.504
+NRG,Overpass,https://www.hltv.org/stats/teams/map/40/6673/nrg?startDate=2024-01-01&endDate=2024-12-16,9,6,3,164,96,0.667,18,9,0.5,0.7340000000000001,0.386
+NRG,Vertigo,https://www.hltv.org/stats/teams/map/46/6673/nrg?startDate=2024-01-01&endDate=2024-12-16,22,16,6,448,255,0.727,44,26,0.591,0.58,0.557
