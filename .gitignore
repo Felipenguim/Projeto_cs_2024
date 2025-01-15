@@ -24,3 +24,4 @@ venv.bak/
 
 # Windows
 Thumbs.db
+node_modules
